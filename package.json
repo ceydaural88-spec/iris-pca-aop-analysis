@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "name": "untitled6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "ml-dataset-iris": "^1.2.1",
+    "ml-pca": "^4.1.1"
+  }
+}
