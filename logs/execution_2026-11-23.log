@@ -1,0 +1,17 @@
+[2026-11-23T20:00:51.845Z] [INFO] [veriYukleVeIncele] -> Metod çağrısı yakalandı. Argümanlar: []
+[2026-11-23T20:00:51.847Z] [INFO] [veriYukleVeIncele] -> Veri doğrulama kontrolleri başlatılıyor...
+[2026-11-23T20:00:51.847Z] [INFO] [veriYukleVeIncele] -> Veri doğrulama kontrolleri başarıyla geçildi.
+[2026-11-23T20:00:51.849Z] [SUCCESS] [veriYukleVeIncele] -> Tamamlandı | Süre: 1.4229 ms | Bellek Değişimi: 826.41 KB
+[2026-11-23T20:00:51.849Z] [INFO] [veriOnIsleme] -> Metod çağrısı yakalandı. Argümanlar: []
+[2026-11-23T20:00:51.849Z] [INFO] [veriOnIsleme] -> Veri doğrulama kontrolleri başlatılıyor...
+[2026-11-23T20:00:51.849Z] [INFO] [veriOnIsleme] -> Veri doğrulama kontrolleri başarıyla geçildi.
+[2026-11-23T20:00:51.849Z] [SUCCESS] [veriOnIsleme] -> Tamamlandı | Süre: 0.3048 ms | Bellek Değişimi: 9.22 KB
+[2026-11-23T20:00:51.849Z] [INFO] [pcaUygula] -> Metod çağrısı yakalandı. Argümanlar: [2]
+[2026-11-23T20:00:51.849Z] [INFO] [pcaUygula] -> Veri doğrulama kontrolleri başlatılıyor...
+[2026-11-23T20:00:51.849Z] [INFO] [pcaUygula] -> Veri doğrulama kontrolleri başarıyla geçildi.
+[2026-11-23T20:00:51.851Z] [SUCCESS] [pcaUygula] -> Tamamlandı | Süre: 1.7745 ms | Bellek Değişimi: 692.66 KB
+[2026-11-23T20:00:51.851Z] [INFO] [sonuclariGorsellestir] -> Metod çağrısı yakalandı. Argümanlar: ["./outputs/iris_pca_sonuc.html"]
+[2026-11-23T20:00:51.851Z] [INFO] [sonuclariGorsellestir] -> Veri doğrulama kontrolleri başlatılıyor...
+[2026-11-23T20:00:51.851Z] [INFO] [sonuclariGorsellestir] -> Veri doğrulama kontrolleri başarıyla geçildi.
+[2026-11-23T20:00:51.851Z] [SUCCESS] [sonuclariGorsellestir] -> Tamamlandı | Süre: 0.334 ms | Bellek Değişimi: 62.29 KB
+[2026-11-23T20:00:51.852Z] [INFO] [generatePerformanceReport] -> Performans metrikleri 'outputs/performance_metrics.json' dosyasına kaydedildi.

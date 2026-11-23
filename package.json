@@ -1,16 +1,11 @@
 {
-  "type": "module",
-  "name": "untitled6",
+  "name": "iris-pca-aop",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "type": "module",
+  "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
   "dependencies": {
     "ml-dataset-iris": "^1.2.1",
     "ml-pca": "^4.1.1"

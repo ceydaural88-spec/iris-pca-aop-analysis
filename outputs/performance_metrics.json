@@ -1,0 +1,33 @@
+{
+  "toplam_sure_ms": 3.8362,
+  "adimlar": [
+    {
+      "metod": "veriYukleVeIncele",
+      "sure_ms": 1.4229,
+      "bellek_degisimi_kb": 826.41,
+      "durum": "BAŞARILI",
+      "zaman": "2026-11-23T20:00:51.849Z"
+    },
+    {
+      "metod": "veriOnIsleme",
+      "sure_ms": 0.3048,
+      "bellek_degisimi_kb": 9.22,
+      "durum": "BAŞARILI",
+      "zaman": "2026-11-23T20:00:51.849Z"
+    },
+    {
+      "metod": "pcaUygula",
+      "sure_ms": 1.7745,
+      "bellek_degisimi_kb": 692.66,
+      "durum": "BAŞARILI",
+      "zaman": "2026-11-23T20:00:51.851Z"
+    },
+    {
+      "metod": "sonuclariGorsellestir",
+      "sure_ms": 0.334,
+      "bellek_degisimi_kb": 62.29,
+      "durum": "BAŞARILI",
+      "zaman": "2026-11-23T20:00:51.851Z"
+    }
+  ]
+}
